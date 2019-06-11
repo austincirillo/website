@@ -1,0 +1,129 @@
+h1 {
+	font-family: Black Ops One, cursive, arial;
+	text-align: center;
+	font-size: 40px;
+}
+
+#austin img {
+	width: 10%;
+	height: 10%;
+	display: block;
+	margin: auto;
+}
+
+#home p {
+	font-size: 150%;
+	font-family: ZCOOL KuaiLe, cursive, arial;
+	font-weight: bolder;
+	text-align: center;
+	margin: auto;
+}
+
+body {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#nav {
+	background-color: black;
+	overflow: hidden;
+	padding: 5px;
+	border: 2px solid white;
+	margin: 5px;
+}
+
+#nav a {
+	color: white;
+	text-decoration: none;
+	font-variant: small-caps;
+	font-size: 125%;
+	font-family: Gugi, cursive, arial;
+}
+
+#resume {
+	width: 650px;
+	height: 675px;
+	overflow: scroll;
+	background-color: white;
+	margin: auto;
+	padding: 5px 25px;
+	opacity: 0.85;
+	font-family: calibri. arial;
+	border-radius: 5px;
+	border: 2px solid grey;
+}
+
+#portfolio {
+	text-align: center;
+	background-color: white;
+	width: 500px;
+	margin: auto;
+	border-radius: 5px;
+	border: 2px solid grey;
+	opacity: 0.85;
+	font-family: calibri, arial;
+	line-height: 0.5px;
+	overflow: scroll;
+	height: 675px;
+	padding: 5px 0px;
+}
+
+#portfolio img {
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+#contact {
+	background-color: white;
+	width: 300px;
+	margin: auto;
+	opacity: 0.85;
+	font-family: calibri, arial;
+	border-radius: 5px;
+	border: 2px solid grey;
+}
+
+#contact h2 {
+	text-align: center;
+}
+
+#contact li {
+	list-style: none;
+}
+
+#contact img {
+	width: 100px;
+	height: 100px;
+}
+
+#q h3 {
+	color: grey;
+	font-size: 25px;
+}
+
+#q {
+	background-color: white;
+	margin: 50px 150px;
+	font-family: calibri, arial;
+	border-radius: 5px;
+	border: 2px solid grey;
+	padding: 10px 10px;
+}
+
+#q img {
+	width: 100px;
+	height: 100px;
+	float: right;
+}
+
+#source {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+}
+
+#source a {
+	color: white;
+}
